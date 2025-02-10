@@ -48,7 +48,7 @@ The work is done in 3Statistics.ipynb file and the outputs are Sales_BI.csv and 
 
 There have been implemented 2 use cases in Power bi: sales overview and profitability analysis.
 
-Sales overview:
+#### Sales overview:
 
 In sales overview there is the general information that shows the evolution of the sales of the company and the main caracteristics of this.
 
@@ -70,9 +70,9 @@ Distributions:
 1.3 Statistical significance on Sales
 2.1 Nº Sales by Product Category
 2.2 Nº Sales by Category
-2.3 Geographical Sales Mape
+2.3 Geographical Sales Map
 
-Sales profitability:
+#### Sales profitability:
 
 In sales profitability there is the general informmation that shows the informarion about the profitability streams of the company. According to the analysis of which were the variables that most affect to revenue, the distributions have been created to discover insights that can have impacto on business.
 
@@ -89,9 +89,43 @@ Kpis:
 
 Distributions:
 1.1 Gross Profit by Hour
-1.2 Nº Sales by Product C
-1.3 Distribution of Product
-2.1 Nº Sales by Product Category
-2.2 Nº Sales by Category
-2.3 Geographical Sales Mape
+1.2 Temporal distribution of Gross Margin per Unit
+1.3 Distriburion of Product Category by Gross margin per unit
+2.1 Distribution of Profitability by Product Category
+2.2 Distribution of Profitability by Product
+2.3 Distribution of Product by gross margin per unit
+
+
+#### Filter Panel:
+
+In addition to the dashboards it has been created a filter panel where can be applied dynamic filters. This filter page has been created with markdowns for both pages.
+
+Filters:
+
+- Date
+- Hour
+- Product Category
+- Product
+- State
+- City
+
+
+### Analysis of the results
+
+In order to show the functionality it has been conducted an analysis so that it can be validity of the bi tool demonstrated.
+
+
+Objective of the analysis: determine how can the retail company increase their profitability over the time.
+
+#### Descriptive analysis: 
+
+The retail company has been selling technological products for one year, from Ganuary 2019 to Genuary 2020. During this period of time it has reached the following results:
+
+- Total revenue of 34.49K €
+- Total aquisition cost of 25K €
+- Total gross profit of 9 Million €.
+  
+To reach that results the company has sold 209K units of its products, earing 53,20 € per sale on average.
+
+
 
