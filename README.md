@@ -71,3 +71,27 @@ Distributions:
 2.1 Nº Sales by Product Category
 2.2 Nº Sales by Category
 2.3 Geographical Sales Mape
+
+Sales profitability:
+
+In sales profitability there is the general informmation that shows the informarion about the profitability streams of the company. According to the analysis of which were the variables that most affect to revenue, the distributions have been created to discover insights that can have impacto on business.
+
+Kpis:
+
+1.1 Total Revenue: Sum of the revenue of the sales
+1.2 Total Aquisition Cost: Sum of the cost of the units sold
+1.3 Total Gross Profit: Difference between Total Revenue and Total aquisition cost
+1.4 %Gross Margin: Expression of total gross profit in %
+2.1 Nº Sales: Nº of transactions completed
+2.2. Aavg Gross Profitper unit:Mean of the profit that every unit is generating
+2.3 Avg Gross Profit per Sale: Mean of the profit that every transaction is generating
+2.4 Avg Gross Profit per month: Mean of the profit that the company is generating per month
+
+Distributions:
+1.1 Gross Profit by Hour
+1.2 Nº Sales by Product C
+1.3 Distribution of Product
+2.1 Nº Sales by Product Category
+2.2 Nº Sales by Category
+2.3 Geographical Sales Mape
+
