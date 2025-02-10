@@ -1,0 +1,8 @@
+,Variable,p-value,Significance
+0,Product,0.0,Significant
+1,Month,0.3422067659779472,Not Significant
+2,Hour,0.0193827100521709,Significant
+3,Address_City,0.8872219945739407,Not Significant
+4,State,0.8516203155235824,Not Significant
+5,Address_Zip_Code,0.9183869957038648,Not Significant
+6,Product Category,0.0,Significant
