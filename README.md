@@ -117,7 +117,7 @@ In order to show the functionality it has been conducted an analysis so that it 
 
 Objective of the analysis: determine how can the retail company increase their profitability over the time.
 
-#### Descriptive analysis: 
+#### Descriptive analysis
 
 The retail company has been selling technological products for one year, from Ganuary 2019 to Genuary 2020. During this period of time it has reached the following results:
 
@@ -125,7 +125,24 @@ The retail company has been selling technological products for one year, from Ga
 - Total aquisition cost of 25K €
 - Total gross profit of 9 Million €.
   
-To reach that results the company has sold 209K units of its products, earing 53,20 € per sale on average.
+To reach that results the company has sold 209K units of its products, earing 53,20 € per sale on average
 
+Sales have shown an increasing trend, but it has not been gradual, as between April and October, sales decreased and fell below the average from June to October. External factors that could explain this variation in sales are unknown. However, the statistical significance table shows that there is no strong relationship between the monthly trend and the sales. Therefore, it is not recommended to make any decisions based on the temporal analysis at this time.
+
+![image](https://github.com/user-attachments/assets/6ae60222-6251-4eb1-87be-e8873d02b3a6)
+
+
+This is not the case for the time frame, as the statistical table does show significance of the hours on sales. In the graph, we can see that the early morning hours, between 00:00 and 9:00 AM, accumulate sales figures lower than the average. Between 9:00 AM and 10:00 PM, sales exceed the average, with peaks between 10:00 AM and 2:00 PM, and between 5:00 PM and 9:00 PM
+
+![image](https://github.com/user-attachments/assets/35cd16d5-11c8-41f4-9509-e1a87629d767)
+
+With this information, it is possible to understand when the company sells the most, and it can lead to lines of analysis to determine when products should be promoted.
+
+Regarding products and product categories, they also have statistical significance in sales. This means that some products are more successful than others. The sale of headphones and earbuds, accessories, and batteries represents more than 70% of sales. One hypothesis to investigate is whether these products, which the company sells the most, are also the most profitable.
+
+![image](https://github.com/user-attachments/assets/219e01cb-56f1-483e-a7d9-98af7f230be0)
+
+
+#### I
 
 
