@@ -140,9 +140,15 @@ With this information, it is possible to understand when the company sells the m
 
 Regarding products and product categories, they also have statistical significance in sales. This means that some products are more successful than others. The sale of headphones and earbuds, accessories, and batteries represents more than 70% of sales. One hypothesis to investigate is whether these products, which the company sells the most, are also the most profitable.
 
-![image](https://github.com/user-attachments/assets/219e01cb-56f1-483e-a7d9-98af7f230be0)
+![image](https://github.com/user-attachments/assets/177ee81b-4031-43e2-b036-d8138044f5f9)
 
 
-#### I
+
+#### Identification of Improvement Opportunities
+
+The profit margin evolves in tandem with sales. This can be observed by comparing charts 1.1 from both pages. However, if we analyze the temporal evolution of the profit margin per sale, we can see that there is no upward trend, meaning that profitability is not increasing over time.
+
+![image](https://github.com/user-attachments/assets/0632ee27-4175-403e-b239-a432f5adec9a)
+
 
 
