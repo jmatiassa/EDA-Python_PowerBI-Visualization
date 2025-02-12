@@ -150,5 +150,7 @@ The profit margin evolves in tandem with sales. This can be observed by comparin
 
 ![image](https://github.com/user-attachments/assets/0632ee27-4175-403e-b239-a432f5adec9a)
 
+An optimization of the product catalog with a product strategy is the selected approach to improve the profitability and gross profit. To do that it has been created an additional dashboard: Product Matrix. This matrix shows which are the products that are exceptional for the company, which are having good results and which must be optimized or even substituted. This project is not foccused on having a deep analysis so it won't be taken strategic decisions. Despite that, this panel shows the most relevant information of the products with the existing data and it could help any business to make strategic decisions.
 
+![image](https://github.com/user-attachments/assets/41968215-6a91-4c1f-a932-69bf2ce69133)
 
